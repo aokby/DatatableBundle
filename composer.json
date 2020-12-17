@@ -1,8 +1,8 @@
 {
-    "name": "waldo/datatable-bundle",
-    "description": "Symfony2 Ajax Datagrid Bundle for doctrine2 entities",
-    "keywords": ["symfony2","jquery","datatable"],
-    "homepage": "https://github.com/waldo2188/DatatableBundle",
+    "name": "aokby/datatable-bundle",
+    "description": "Symfony4 Ajax Datagrid Bundle for doctrine2 entities",
+    "keywords": ["symfony4","jquery","datatable"],
+    "homepage": "https://github.com/aokby/DatatableBundle",
     "license": "MIT",
     "type": "symfony-bundle",
     "authors": [
@@ -23,7 +23,7 @@
     ],
     "require": {
         "php": ">=5.4",
-	"twig/twig": "~1.8",
+	"twig/twig": ">=1.8",
         "doctrine/common": "~2.1"
     },
     "require-dev": {
